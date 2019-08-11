@@ -1,0 +1,52 @@
+Höhenvertellbare Füsse für IKEA LACK Tisch
+
+Für meinen 3D-Drucker baue ich ein Gehäuse mit den IKEA-LACK Tischen. Sie stehen eigentlich sehr gerade auf dem Boden, wenn man die Beine richtig fest anschraubt. Leider war bei mir aber genau die Stelle des Bodens uneben, an der ich die Tische hinstellen wollte. Ich habe daher diese verstellbaren Füsse in zwei Varianten entworfen.
+
+**_Foot-Base_V1.0_**
+Dies ist der höhenverstellbare Fuss. Es gibt auf Thingiverse eine qudratische Variante (thing:2187583), die aber für mich optisch nicht viel Sinn macht. Für mein Design habe ich eine M4-Schraube gwählt, weil ich sie bei mir an Lager hatte. Von der Belastung her ist die mehr als ausreichend, ich muss aber zugeben, dass es ein wenig seltsam aussieht.
+
+_Zusätzliche Teile:_
+4 Stk. Sechskantschraube M4x30 (oder länger)
+4 Stk. Mutter M4
+
+_Drucker-Einstellungen:_
+Material: PLA
+Auflösung: 0.2mm
+Wandstärke: 1.2mm
+Infill: 50%
+Support: ja
+Adhesion: Skirt
+
+
+**_Table-Support_Var1_V1.0_**
+Die erste Variante des Tisch-Auflage umschliesst das Bein von allen Seiten. In der Mitte des Beins muss ein Loch gebohrt werden, damit die M4-Schraube des Basis-Teil Raum für die Bewegung hat. Falls man die Teile noch am Bein befestigen möchte, sollten die Schraubenlöcher ebenfalls vorgebohrt werden.
+
+
+_Zusätzliche Teile:_
+4 Stk. Mutter M4
+8 Stk. Senkkopf-Holzschrauben (optional)
+
+_Drucker-Einstellungen:_
+Material: PLA
+Auflösung: 0.2mm
+Wandstärke: 1.2mm
+Infill: 50%
+Support: nein
+Adhesion: Skirt
+
+
+
+**_Table-Support_Var2_V1.0_**
+Die zweite Variante der Tisch-Auflage erfordert mehr Aufwand, ist aber fast unsichtbar und meiner Meinung nach ansprechender. Man muss vorher die Tischbein aushöhlen, das ist meist relativ einfach, da die verwendeten Spanplatten nur 1cm - 1.5cm dick und recht bröckelig sind. Wenn man allerdings Pech hat, ist eine 3.5cm Platte aus stabileren Material eingeklebt.
+Ich denke, dass sich der Aufwand lohnt und das Resultat für sich spricht.
+
+_Zusätzliche Teile:_
+4 Stk. Mutter M4
+
+_Drucker-Einstellungen:_
+Material: PLA
+Auflösung: 0.2mm
+Wandstärke: 1.2mm
+Infill: 50%
+Support: nein
+Adhesion: Skirt

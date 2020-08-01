@@ -22,5 +22,3 @@ Resolution: 0.1mm
 Wall Line Count: 3
 Infill: 20%
 Support: Not required, the block can be switched on from buildplate to get a better interface.
-
-Translated with www.DeepL.com/Translator

@@ -13,3 +13,6 @@ Top/Bottmom thickness: 3 Layer
 Infill: 15-20%
 Support: no
 Build Plate Adhesion: Skirt
+
+Tags:
+drawer   drawers   drill   drill_holder   storage

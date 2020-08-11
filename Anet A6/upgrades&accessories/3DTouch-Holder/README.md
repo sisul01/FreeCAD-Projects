@@ -1,5 +1,5 @@
 Anet A6 3D/BL Touch Sensor Holder
-
+=================================
 Tags: 3d_touch   anet   anet_a6   anet_a6_bl_touch   BL_Touch BL_touch_mount   BL_touch_sensor
 
 Since I was fed up with the constant leveling, I decided to install a 3D touch sensor. Once again I was not happy about the solutions found on Thingiverse. The sensor was either too far away from my nozzle or it shortened the range of motion in the X-axis.

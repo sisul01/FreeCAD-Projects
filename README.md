@@ -1,5 +1,5 @@
 # FreeCAD-Projects
-Contains various FreeCAD projects 
+Contains various FreeCAD projects for 3D-printing
 
 
 

@@ -1,0 +1,2 @@
+I printed my bracket in PETG with 100% infill, you can also use another plastic with a glass transition temperature of 80°C or higher. 
+For me it is enough in PETG, I have already printed a few hours at 50-60°C, and only noticed a slight stress fatigue. The clamp is still holding the glass bed well on the heating bed.

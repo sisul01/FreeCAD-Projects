@@ -1,0 +1,1 @@
+Eine einfache Box um etwas darin aufzubewahren. Sie hat die Masse 116 x 86 x 50 mm.

@@ -6,6 +6,13 @@ The holder is slimmer and has a diameter of 32mm and a length of 96mm. It also h
 
 As always, the thread needs a few passes until the unevenness caused by the printing is smoothed off.
 
+Edit 30.03.24:
+
+At the request of a user, I have added collets with a diameter of 8.5mm to 10mm. However, I would like to add that in my opinion the mechanical stability and clamping force is no longer sufficient in all cases from diameters of approx. 6mm and higher. At best, the tool will slip in the collet during use, but overloading and material breakage can also occur.
+ 
+I have also uploaded the corresponding step files.
+
+
 _Printer Settings:_
 Material: PLA
 Resolution: 0.2mm

@@ -1,0 +1,71 @@
+	Parts to Buy
+	------------
+Qty	Label	
+3	Nema_17_17HS4401
+3	Ball Bearing 608zz
+3	ShaftCoupler_5-8
+1	LeadScrew_TR8-L2_P2-150
+2	LeadScrew_TR8-L4_P2_200
+1	Nut_AntiBacklash_Tr8_L2_P2
+2	Nut_AntiBacklash_Tr8_L4_P2
+
+4	Precision shaft 10 mm h6 - steel, L=218mm
+2	Precision shaft 8 mm h6 - steel, L=170mm
+4	LM10LUU
+2	LM8LUU
+
+8	Dowel Pin - d5mmx16mm
+10	M3-Nut	
+6	M3-Washer	
+12	M3x3-SetScrew with Conepoint
+4	M3x8-Hexagon Socket Screw
+7	M3x12-Hexagon Socket Screw
+40	M3x14-Hexagon Socket Screw
+21	M3x16-Hexagon Socket Screw
+2	M3x20-Hexagon Socket Screw
+4	M5x25-Hexagon Socket Screw
+6	M5x35-Hexagon Socket Screw
+4	M6x60-Hexagon Socket Screw
+
+5	Microswitch_V-156-1C25
+1	UL1185 Shielded Wire 5m (optional)
+1	DC-SpindleMotor_200W
+1	Motor-Clamp-52mm
+1	ER 11 or ER16 ColletChuck
+1	Arduino Uno Rev.3
+1	CNC Shield V3
+3	A4988 Stepper Driver
+1	Switching Power Supply, 240W, 24V
+
+
+	Parts to Print
+	--------------
+Qty	Label				Material
+1	Base-Frame			PLA
+1	SidePanel_Left		PLA
+1	SidePanel_Right		PLA
+2	RearStrut			PLA
+
+1	X-Sled				PETG
+1	X-Sled_BottomPlate	PLA
+1	X-Sled_TopPlate		PLA
+
+1	Y-Sled				PETG
+1	Table				PLA
+2	TableClampingStrip	choice
+
+1	Z-Sled				PETG
+
+2	Handwheel			choice
+
+1	X-EndstopAdapter_L	choice
+1	X-EndstopAdapter_R	choice
+1	Y-EndStopAdapter_B	choice
+1	Y-EndStopAdapter_F	choice
+1	Z-EndStopAdapter	choice
+		
+1	ArduinoMount		choice
+
+15	Energy-Chain_Chain-Link			choice
+1	Energy-Chain_Endpiece_Frame		choice
+1	Energy-Chain_Endpiece_X-Axis	choice
